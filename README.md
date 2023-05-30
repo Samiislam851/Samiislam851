@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Samiul Islam Siam</h2>
 
-A student at Mymensingh Engineering College, with a passion for coding and creating cool stuff. 🚀I love working on personal projects in my free time.
+A student at Mymensingh Engineering College(CSE), with a passion for coding and creating cool stuff. 🚀I love working on personal projects in my free time.
 
 💡 Innovation and finding solutions to problems drive me, and I'm always up for new challenges. From web development to software engineering, I enjoy experimenting with different technologies and frameworks.
 
