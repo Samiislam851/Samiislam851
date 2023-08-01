@@ -28,7 +28,7 @@ collaboration and knowledge sharing. Let's connect and create something awesome 
 - 📫 How to reach me **samisiam851@gmail.com**
 
 - 📄 Here is my resume  
-[https://docs.google.com/document/d/1Spxg4Hrflx8jInzAHyV8uU6Ix-lUqJu1SyARic1JVJo/edit?usp=sharing](https://docs.google.com/document/d/1Spxg4Hrflx8jInzAHyV8uU6Ix-lUqJu1SyARic1JVJo/edit?usp=sharing)
+https://drive.google.com/file/d/1BxyiZFx4UOTgnVQQ6mBE0TQFCfpyHgjO/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
