@@ -24,7 +24,7 @@ collaboration and knowledge sharing. Let's connect and create something awesome 
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 My portfolio [https://portfolio-61dbc.web.app/](https://samiulislamsiam.netlify.app/)
+- 👨‍💻 [My portfolio] (https://samiulislamsiam.netlify.app/)
 
 - 📫 How to reach me **samisiam851@gmail.com**
 
