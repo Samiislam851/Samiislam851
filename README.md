@@ -1,37 +1,31 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
-<h1 align="center">Hi 👋, I'm Samiul Islam Siam</h1>
+<h1 align="center">Hey there, I'm Samiul Islam Siam</h1>
 <h3 align="center">A passionate web developer </h3>
 <br />
 
 
 
 <br />
-A recent graduate from the department of CSE at Mymensingh Engineering College, with a passion for coding and creating cool stuff.
-I have a solid command of the MERN (MongoDB, Express.js, React.js, Node.js) stack and can proficiently develop
-applications using these technologies.
-🚀I love working on personal projects in my leisure time.
+A CSE graduate, with a passion for coding and creating cool stuff.
+Have a solid command of the MERN (MongoDB, Express.js, React.js, Node.js) stack and can proficiently develop
+applications using different technologies.
 
 💡 Innovation and finding solutions to problems drive me, and I'm always up for new challenges. From web development to
 software engineering, I enjoy experimenting with different technologies and frameworks.
 
 🌟 Constantly learning and staying up-to-date with the latest trends is my thing. I believe in the power of
-collaboration and knowledge sharing. Let's connect and create something awesome together! 😄
+collaboration and knowledge sharing. Let's connect and create something awesome together! 
 <br />
 <br />
 <img src="https://cdn.dribbble.com/users/235897/screenshots/1712148/3dprinter.gif" width="400" align="right"
     alt="coding">
 - 🔭 I’m currently working on **Some personal Project**
 
-- 🌱 I’m currently learning **React Native**
-
 - 👨‍💻 My portfolio https://samiulislamsiam.netlify.app/
 
 - 📫 How to reach me **samisiam851@gmail.com**
-
-- 📄 Here is my resume
-https://drive.google.com/file/d/1BxyiZFx4UOTgnVQQ6mBE0TQFCfpyHgjO/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
