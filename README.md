@@ -5,8 +5,6 @@
 <h3 align="center">A passionate web developer </h3>
 <br />
 
-
-
 <br />
 A CSE graduate, with a passion for coding and creating cool stuff.
 Have a solid command of the MERN (MongoDB, Express.js, React.js, Node.js) stack and can proficiently develop
